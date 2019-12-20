@@ -5,11 +5,6 @@
 
 Congratulations! You have learned about one of the most fundamental concepts at the core machine learning, calculus. In this section, you started with the basics of derivatives and moved all the way to coding out gradient descent with multiple variables. 
 
-## Objectives
-You will be able to:
-* Understand and explain what was covered in this section
-* Understand and explain why this section will help you become a data scientist
-
 ## Key Takeaways
 
 In this section, we both learned how to traverse a cost function graph to find the local minima to solve a linear regression by using gradient descent and covered some of the foundational calculus that will help you to understand many of the other machine learning models you'll encounter as a professional data scientist. Key takeaways include:
