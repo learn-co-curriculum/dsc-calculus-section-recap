@@ -1,5 +1,4 @@
-
-# Section Recap
+# Calculus and Gradient Descent - Recap
 
 ## Introduction
 
